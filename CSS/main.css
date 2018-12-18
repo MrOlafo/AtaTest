@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://github.com/MrOlafo/AtaTest/blob/master/Images/Background.jpg'), repeating-linear-gradient(rgb(59, 2, 45), rgb(94, 15, 88), rgb(214, 195, 216));
+    background-image: repeating-linear-gradient(rgb(59, 2, 45), rgb(94, 15, 88), rgb(214, 195, 216));
     background-repeat: no-repeat;
     background-position: center;
    } 
